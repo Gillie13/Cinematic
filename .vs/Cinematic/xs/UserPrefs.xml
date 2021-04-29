@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7C084781-669C-050C-B939-B9153794AA9C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/The Great Fleece/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+    <Files>
+      <File FileName="Assets/The Great Fleece/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" Line="3" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dbcb4d43-3f16-4c19-8925-e6bb6101827a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
